@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/Username.png" height="100" alt="My Logo">
+  <img src="/Username.png" height="100%" alt="My Logo">
 </h1>
 <h3 align="center">A passionate developer!</h3>
 
