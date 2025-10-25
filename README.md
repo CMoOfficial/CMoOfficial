@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm CMoOfficial!
-  <img src="username.png" height="50" alt="My Logo">
+  <img src="/Username.png" height="50" alt="My Logo">
 </h1>
 <h3 align="center">A passionate developer!</h3>
 
