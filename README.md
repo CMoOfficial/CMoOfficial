@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm CMoOfficial</h1>
+<h1 align="center">
+  Hi 👋, I'm CMoOfficial!
+  <img src="username.png" height="50" alt="My Logo">
+</h1>
 <h3 align="center">A passionate developer!</h3>
 
 <h3 align="left">Connect with me:</h3>
